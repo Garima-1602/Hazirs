@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Garima/StudioProjects/Hazirs/app/src/main/res/drawable/splash_shape.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Garima/StudioProjects/Hazirs/app/src/main/res/layout/activity_loigin.xml" value="0.1721014492753623" />
         <entry key="..\:/Users/Garima/StudioProjects/Hazirs/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Garima/StudioProjects/Hazirs/app/src/main/res/layout/login.xml" value="0.11875" />
+        <entry key="..\:/Users/Garima/StudioProjects/Hazirs/app/src/main/res/layout/splash_main.xml" value="0.1" />
       </map>
     </option>
   </component>
